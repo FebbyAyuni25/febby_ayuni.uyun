@@ -1,0 +1,48 @@
+ERLANGGA
+
+Computer Science ED.7
+	Kode Buku : 33-01-032-4
+	Pengarang: J.GLENN BROOKSHEAR
+	Tahun: 2004
+	ISBN: 9797410099
+	Lebar Buku : 17.5 cm
+	Tinggi Buku : 25 cm
+	Tebal Buku : 616 hlm
+	Berat Buku : 967.2 Gram
+
+DATABASE PROCESSING JL.1 ED.9
+	Kode Buku : 33-02-020-7
+	Pengarang: DAVID M.KROENKE
+	Tahun: 2005
+	ISBN:
+	Lebar Buku : 17.5 cm
+	Tinggi Buku : 25 cm
+	Tebal Buku : 408 hlm
+	Berat Buku : 605.8 Gram
+	
+
+YUDHISTIRA
+
+Kimia X
+	 Kode Buku:	A.33.16.221
+	 Penulis:	Muchtaridi
+	 Jenjang:	SMA/MA
+	 Kelas:	Kelas 10
+	 Tahun:	November 2016
+	 ISBN:	978-602-299-518-0
+	 Halaman:	272
+	 Kertas:	-
+	 Ukuran:	205 x 275 mm
+	 Warna:	Full Color
+	 
+fisika X
+	 Kode Buku:	A.23.15.221
+	 Penulis:	Bambang Ruwanto
+	 Jenjang:	SMA/MA
+	 Kelas:	Kelas 10
+	 Tahun:	November 2016
+	 ISBN:	978-602-299-510-4
+	 Halaman:	272
+	 Kertas:	-
+	 Ukuran:	205 x 275 mm
+	 Warna:	Full Color
